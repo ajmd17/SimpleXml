@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<employees>
+	<employee name="batman">
+		<info>
+			<!--Hello world-->
+			<address>1007 Mountain Drive, Gotham</address>
+			<vehicle>The Batmobile</vehicle>
+		</info>
+		<associates>
+			<associate>
+				<name>Robin</name>
+			</associate>
+		</associates>
+	</employee>
+</employees>
