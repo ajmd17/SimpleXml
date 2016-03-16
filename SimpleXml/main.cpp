@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#include "simple_xml_writer.h"
+#include "xml_writer.h"
 
 int main()
 {
