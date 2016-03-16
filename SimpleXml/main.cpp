@@ -3,6 +3,8 @@ using namespace std;
 
 #include "xml_writer.h"
 
+using namespace apex;
+
 int main()
 {
 	XmlWriter xml("test.xml");
